@@ -1,4 +1,3 @@
-## Hi there 👋
+## Oh hiii, I'm Jelly... 👋
 
-I'm Jelly06 or whatever you may call me.
-I'm currently working on this README file. Yeah, that's it.
+I'm a beginner programmer and just now learning Git.
